@@ -44,9 +44,9 @@ a, b = numberOFMeasurement, numberOfDevice
 router_1 = {
     'device_type': 'cisco_ios',
     'ip': '10.51.1.2',
-    'username': 'R1220',
-    'password': 'Ta14551748',
-    'secret': 'Ta14551748',
+    'username': 'cisco',
+    'password': 'cisco',
+    'secret': 'cisco',
     'port': 22
 }
 
